@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dpere22
+- 👋 Hi, I’m Diego Perez
 - 👀 I’m interested in software engineering and game development
 - 🌱 I’m currently learning Godot, GDScript and Three.js
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/diego-perez-85ab2323a), [Email](mailto:Perez.Diego@utah.edu)
