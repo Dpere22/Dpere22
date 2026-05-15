@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diego Perez
-- 👀 I’m interested in Gameplay Programming, Tools Programming, and Technical Art
-- 🌱 I’m currently learning Unreal Engine
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/diego-perez-85ab2323a), [Email](mailto:Perez.Diego@utah.edu)
+- 👀 I’m interested in Fintech | Experience with API Infrastructure
+- 🌱 Currently developing LoanWatcher - A loan management dashboard to give clarity to personal finance.
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/diego-perez-85ab2323a), [Email](mailto:dp-0716@outlook.com)
 - 😄 Pronouns: He/Him
 
 <!---
