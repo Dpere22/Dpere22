@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diego Perez
-- 👀 Currently a full time Software Engineer
+- 💼 Currently a Full Time Software Engineer
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/diego-perez-85ab2323a)
-- 😄 Pronouns: He/Him
+- 😃 Pronouns: He/Him
 
 <!---
 Dpere22/Dpere22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
