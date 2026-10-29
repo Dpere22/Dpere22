@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diego Perez
-- 💼 Currently a Full Time Software Engineer
+- 💼 Currently a Software Engineer
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/diego-perez-85ab2323a)
 - 😃 Pronouns: He/Him
 
